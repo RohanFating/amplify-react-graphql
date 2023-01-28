@@ -1,0 +1,12 @@
+{
+  "resourceName": "s336d9d0c2",
+  "policyUUID": "36d9d0c2",
+  "bucketName": "aplify-s3",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
